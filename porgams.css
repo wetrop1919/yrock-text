@@ -1,0 +1,51 @@
+body {
+    background-color: #ffd700 
+}
+
+.text {
+    border: 10px solid red;
+    border-top-width: 7px;
+    border-right-color: blue;
+}
+
+.tecstA {
+    background: #f0e68c;
+    padding: 16px;
+    border: 3px solid 	black;
+}
+
+.tecstB {
+    background: #ffe4c4;
+    padding: 16px;
+    border: 3px solid 	black;
+}
+
+.tecstC {
+    background: #f5f5dc;
+    padding: 16px;
+    borderевних времён : 3px solid 	black;
+}
+
+.tecstD {
+    background: #deb887;
+    padding: 16px;
+    border: 3px solid 	black;
+}
+
+.tecstI {
+    background: #e9967a;
+    padding: 16px;
+    border: 3px solid 	black;
+}
+
+.tecstF {
+    background: #ffd700;
+    padding: 16px;
+    border: 3px solid 	black;
+}
+
+.tecstG {
+    background: #fffaf0;
+    padding: 16px;
+    border: 3px solid 	black;
+}
