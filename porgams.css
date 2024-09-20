@@ -44,6 +44,14 @@ body {
     border: 3px solid 	black;
 }
 
+.ingif {
+    background: #4169e1;
+    padding: 16px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    border: 3px solid 	black;
+}
+
 .tecstG {
     background: #fffaf0;
     padding: 16px;
